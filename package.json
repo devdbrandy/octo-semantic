@@ -1,0 +1,24 @@
+{
+  "name": "octo-semantic",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devdbrandy/octo-semantic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devdbrandy/octo-semantic/issues"
+  },
+  "homepage": "https://github.com/devdbrandy/octo-semantic#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.4"
+  }
+}
