@@ -20,5 +20,10 @@
   "homepage": "https://github.com/devdbrandy/octo-semantic#readme",
   "devDependencies": {
     "semantic-release": "^17.4.4"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
